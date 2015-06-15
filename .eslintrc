@@ -1,0 +1,15 @@
+{
+    "env": {
+        "node": true
+    },
+    "rules": {
+        "camelcase": 2,
+        "consistent-return": 0,
+        "guard-for-in": 2,
+        "no-underscore-dangle": 0,
+        "no-unused-vars": [2, {"args": "none", "vars": "all"}],
+        "no-use-before-define": [2, "nofunc"],
+        "quotes": 0,
+        "wrap-iife": 2
+    }
+}

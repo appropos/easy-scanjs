@@ -1,0 +1,17 @@
+{
+  "name": "easy-scanjs",
+  "version": "0.0.1",
+  "description": "Wrapper for ScanJS that presents a nicer API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "",
+  "repository": "appropos/easy-scanjs",
+  "dependencies": {
+    "es6-promise": "^2.3.0",
+    "object-assign": "^3.0.0",
+    "uuid": "^2.0.1"
+  }
+}
