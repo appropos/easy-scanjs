@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "",
+  "author": "Appropos, LLC",
+  "license": "ISC",
   "repository": "appropos/easy-scanjs",
   "dependencies": {
     "es6-promise": "^2.3.0",
