@@ -12,6 +12,7 @@
   "dependencies": {
     "es6-promise": "^2.3.0",
     "object-assign": "^3.0.0",
+    "scanjs": "appropos/scanjs#master",
     "uuid": "^2.0.1"
   }
 }

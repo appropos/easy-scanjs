@@ -32,7 +32,7 @@ function scanOne(srcPath) {
     var resultsFilePath = resultsFilePathArg + '.JSON';
 
     var scanJsCmd = [
-        './node_modules/.bin/scanjs',
+        path.resolve(__dirname, 'node_modules/scanjs/scanner.js'),
         '--disable-beautify',
         '-t',
         srcPath,
